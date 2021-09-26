@@ -1,0 +1,58 @@
+/* author: duckien */
+
+.nav-link,
+.navbar-light .navbar-nav .nav-link {
+    color: #ff6b81;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.content-bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 40vh;
+    background: url('../img/bg.jpg') top center / cover no-repeat;
+}
+
+.container .row .ef-fz{
+    font-size: 2rem;
+}
+
+.mysearch-color{
+    background-color: #ff6b81;
+    color: #fff;
+    border: none;
+}
+
+.img-bd{
+    border-radius: 15px;
+}
+
+.col-lg-4 .text-cuatoi{
+    position: absolute;
+    bottom: 50px;
+    left: 45%;
+}
+
+.food-menu-bg{
+    background-color: #ececec;
+}
+
+.food-menu-img{
+    width: 20%;
+}
+
+.text-center a{
+    color: #ff6b81;
+    text-decoration: none;
+}
+
+#footer .mb-4 a{
+    padding: 0 5px;
+}
+
+#manage-user .row .col .my-min-width{
+    min-height: 130px;
+}
