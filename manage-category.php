@@ -96,7 +96,7 @@
                         <tr class="align-middle">
                             <td scope="row">4.</td>
                             <td>Quia est ipsum id id</td>
-                            <td><img src="./assets/img/pizza.jpg" class="w-100"></td>
+                            <td><img src="./assets/img/maxresdefault.jpg" class="w-100"></td>
                             <td>No</td>
                             <td>Yes</td>
                             <td>
